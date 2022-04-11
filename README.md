@@ -9,7 +9,7 @@ My programming handles
 - Leetcode https://leetcode.com/KALILO2020/
 - HackerRank https://www.hackerrank.com/manishjha8909
 
-I am currently looking for opportunities where I can lean and update my skills. 
+I am currently looking for opportunities where I can learn and update my skills. 
 
 
 
