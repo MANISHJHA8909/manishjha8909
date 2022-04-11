@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there,
 
-<!--
-**MANISHJHA8909/manishjha8909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Manish Kumar Jha, currently working in Accenture as Associate Software Engineer(SAP Consultant).
 
-Here are some ideas to get you started:
+I completed my Under Graduation form NIT Bhopal focused on Computer Science in Engineering in 2020.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have strong DataStructures and Algorithms knowledge, currently learning web development.
+My programming handles 
+- Leetcode https://leetcode.com/KALILO2020/
+- HackerRank https://www.hackerrank.com/manishjha8909
+
+I am currently looking for opportunities where I can lean and update my skills. 
+
+
+
+
