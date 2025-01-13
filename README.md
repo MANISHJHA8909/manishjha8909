@@ -1,15 +1,24 @@
-Hi there,
+# About Me
 
-I am Manish Kumar Jha, currently working in Accenture as Associate Software Engineer(SAP Consultant).
+- **Education**:  
+  - B.Tech in Computer Science from NIT Bhopal.  
+  - M.Tech in Computer Science from IIT Ropar.  
 
-I completed my Under Graduation form NIT Bhopal focused on Computer Science in Engineering in 2020.
+- **Key Projects**:  
+  - **Med Scout**:  
+    - A web platform built using React, JavaScript, and Hyperledger Fabric blockchain.  
+    - Ensures security and privacy for healthcare information.  
+  - **MSPlantNet**:  
+    - A Few-Shot Learning model for plant disease classification.  
+    - Achieved high accuracy and recognition at CVIP 2024 and ICA 2024.  
+  - **Serverless DHCP**:  
+    - Implemented a DHCP protocol as a stateful network function.  
+    - Containerized and analyzed for modern serverless computing insights.  
 
-I have strong DataStructures and Algorithms knowledge, currently learning web development.
-My programming handles 
-- Leetcode https://leetcode.com/KALILO2020/
-- HackerRank https://www.hackerrank.com/manishjha8909
+- **Interests**: Problem-solving, serverless architecture, and cloud-native solutions.  
 
-I am currently looking for opportunities where I can learn and update my skills. 
+Let’s connect to collaborate and innovate!
+
 
 
 
