@@ -11,9 +11,10 @@
   - **MSPlantNet**:  
     - A Few-Shot Learning model for plant disease classification.  
     - Achieved high accuracy and recognition at CVIP 2024 and ICA 2024.  
-  - **Serverless DHCP**:  
+  - **Serverless DHCP / SNF : Serverless Network Functions**:  
     - Implemented a DHCP protocol as a stateful network function.  
-    - Containerized and analyzed for modern serverless computing insights.  
+    - Designed ti to serverless with addition of Kubernetes, Knative and Redis.
+    - Compared and analyzed both to showcase serverless benefits.   
 
 - **Interests**: Problem-solving, serverless architecture, and cloud-native solutions.  
 
